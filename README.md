@@ -85,41 +85,40 @@ TOP 5 ELEMENTS
 ![image](https://github.com/user-attachments/assets/6396c75f-679e-4ed4-81b1-cbae5ac14706)
 ![image](https://github.com/user-attachments/assets/602327b8-6c6f-42fc-8a4d-32c767c35de0)
 ![image](https://github.com/user-attachments/assets/c6779062-9136-41aa-a837-e760890039a5)
-![image](https://github.com/user-attachments/assets/6f5339c8-d954-42b9-be68-438e791eea23)
 
 
-DATA DUPILICATE
+##DATA DUPILICATE
 
 ![image](https://github.com/user-attachments/assets/1924ccb2-404c-45b6-94f3-cba914bb34de)
 
 
-PRINT DATA:
+##PRINT DATA:
 
 ![image](https://github.com/user-attachments/assets/723c9fd6-548e-46c6-8c39-58a1b829a80a)
 
-DATA - STATUS:
+##DATA - STATUS:
 
 ![image](https://github.com/user-attachments/assets/aca547d2-34b5-4bb2-b3dc-651022af34d0)
 
-Y_PREDICTION ARRAY:
+##Y_PREDICTION ARRAY:
 
 ![image](https://github.com/user-attachments/assets/1730cc71-65d7-4482-bd93-be81cc4e9d0a)
 
-CONFUSION ARRAY:
+##CONFUSION ARRAY:
 
 ![image](https://github.com/user-attachments/assets/be72ed6f-9278-4234-9497-fb290a4335f1)
 
-ACCURACY VALUE:
+##ACCURACY VALUE:
 
 ![image](https://github.com/user-attachments/assets/c8a6fbda-614e-4ff3-b006-c715947fc6cf)
 
 
-CLASSIFICATION REPORT:
+##CLASSIFICATION REPORT:
 
 ![image](https://github.com/user-attachments/assets/da2df697-e104-4678-b529-d90fc9e3d56e)
 
 
-PREDICTION OF LR:
+##PREDICTION OF LR:
 
 ![image](https://github.com/user-attachments/assets/87425a48-e42c-4990-936c-e732eef9cf03)
 
